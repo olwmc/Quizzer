@@ -1,0 +1,86 @@
+.deckDeleteButton{
+	-fx-background-color: #FF5964;
+	-fx-text-fill: white;
+}
+
+.posButton {
+	-fx-background-color: #35A7FF;
+	-fx-text-fill: white;
+	-fx-font-size: 15px;
+}
+
+.changeButton {
+	-fx-background-color: #1B998B;
+	-fx-text-fill: white;
+	-fx-font-size: 15px;
+}
+
+.mainMenuButton {
+	-fx-background-color: #38618C;
+	-fx-text-fill: white;
+	-fx-font-size: 15px;
+}
+
+.text-area .scroll-bar:vertical:disabled {
+    -fx-opacity: 0;
+}
+
+.auxButton {
+	-fx-background-color: #29335C;
+	-fx-text-fill: white;
+	
+	-fx-pref-width: 190;
+	-fx-pref-height: 35;
+	
+	-fx-font-size: 15px;
+	
+	-fx-border-radius: 0 0 0 0;
+	-fx-background-radius: 0 0 0 0;
+	
+}
+
+.flashButton {
+	-fx-background-color: #F93943;
+	-fx-text-fill: white;
+	-fx-font-size: 15px;
+	
+	-fx-pref-width: 150;
+	-fx-pref-height: 35;
+	
+	-fx-border-radius: 0 0 0 0;
+	-fx-background-radius: 0 0 0 0;
+}
+
+.quizButton {
+	-fx-background-color: #445E93;
+	-fx-text-fill: white;
+	-fx-font-size: 15px;
+	
+	-fx-pref-width: 150;
+	-fx-pref-height: 35;
+
+	-fx-border-radius: 0 0 0 0;
+	-fx-background-radius: 0 0 0 0;	
+}
+
+.q-separator{
+    -fx-pref-width: 760;
+    -fx-border-style: solid;
+    -fx-border-width: 2px;
+    -fx-background-color:black;
+}
+
+.questionOption{
+	-fx-font-size:13px;
+	-fx-wrap-text: true;
+}
+
+.fifteenPxFont {
+	-fx-font-size:15px;
+}
+
+.genHtml{
+	-fx-background-color: #73BFB8;
+	-fx-text-fill: white;
+	-fx-font-size: 15px;
+}
